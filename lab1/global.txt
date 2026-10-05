@@ -1,0 +1,6 @@
+matr1.txt
+matr2.txt
+matrix_result.txt
+data.txt
+10
+true_matrix_result.txt
